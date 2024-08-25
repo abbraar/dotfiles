@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = abrarsebiany15@gmail.com
+	name = Abrar Sebiany
